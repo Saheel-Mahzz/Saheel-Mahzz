@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Saheel-Mahzz/Saheel-Mahzz/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png" width="100%" alt="Banner" />
+</p>
+ 
+
 # Hi there, I'm Saheel 👋
 
 I'm a **Frontend Developer** focused on building web applications with **Vite**, **TypeScript**, **TanStack Query**, and **Mantine**.
