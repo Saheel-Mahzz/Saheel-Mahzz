@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Saheel-Mahzz/Saheel-Mahzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...      
 - ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats (Compact View)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saheel&show_icons=true&theme=default&hide_title=true&count_private=true&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheel&layout=compact&theme=default" alt="Top Languages" />
+</p>
+ 
